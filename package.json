@@ -1,0 +1,28 @@
+{
+  "name": "vanillacalc",
+  "version": "1.0.0",
+  "description": "a simple html, css, vanilla js calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangwritescode/vanillacalc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kangwritescode/vanillacalc/issues"
+  },
+  "homepage": "https://github.com/kangwritescode/vanillacalc#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "@babel/preset-typescript": "^7.8.3",
+    "babel-jest": "^25.1.0"
+  }
+}
